@@ -1,0 +1,25 @@
+{
+  "name": "angular-parallax.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cristiangrojas/angular-parallax.js",
+  "authors": [
+    "Cristian Rojas <cristianguillermorojas@gmail.com>"
+  ],
+  "description": "An angular directive based in parallax.js jQuery plugin",
+  "keywords": [
+    "angular",
+    "parallax",
+    "parallax.js",
+    "directive",
+    "javascript",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
